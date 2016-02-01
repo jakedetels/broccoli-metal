@@ -1,0 +1,28 @@
+{
+  "name": "broccoli-metal",
+  "version": "1.0.0",
+  "description": "Easily iterate through and modify all the files in your Broccoli node (tree).",
+  "main": "index.js",
+  "author": "Jake Detels",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakedetels/broccoli-metal.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli": "^0.16.9",
+    "broccoli-plugin": "^1.2.1",
+    "fs-extra": "^0.26.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ]
+}
